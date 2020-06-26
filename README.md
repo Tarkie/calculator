@@ -1,7 +1,7 @@
 # calculator
 
 Calculator - The Odin Project. 
-See it live [here](tarkie.github.io/calculator)
+See it live [here](https://tarkie.github.io/calculator/)
 
 The main objective of this project is to familiarize and apply the following:
 - Apply and further develop programming logic on JavaScript
